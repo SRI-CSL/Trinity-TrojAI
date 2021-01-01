@@ -1,5 +1,5 @@
 # Trinity-TrojAI
-This repository contains code developed by the SRI team for the IARPA/TrojAI program (https://pages.nist.gov/trojai/) .  More details on the problem of detecting Trojans in deep learning models are at https://pages.nist.gov/trojai/docs/about.html 
+This repository contains code developed by the SRI team for the IARPA/TrojAI program (https://pages.nist.gov/trojai/) .  
 
 ## Relevant Publications from SRI on Trojans in AI
 
