@@ -1,0 +1,19 @@
+Bootstrap: docker
+From: pytorch/pytorch:1.6.0-cuda10.1-cudnn7-runtime
+
+%files
+    ./real_trojan_detector.py /
+    ./arch /
+    ./util /
+    ./session_0000410 /
+    ./extract_fv_v17r.py /
+    ./extract_fv_color_v2r.py /
+    ./extract_fv_color_v2xy.py /
+    ./demo.py /
+
+%post
+    /opt/conda/bin/conda install scikit-image
+    /opt/conda/bin/conda install scikit-learn
+
+%runscript
+    exec python3 /real_trojan_detector.py "$@"
