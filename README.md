@@ -5,7 +5,7 @@ This repository contains code developed by the SRI team for the IARPA/TrojAI pro
 
 * Karan Sikka, Indranil Sur, Susmit Jha, Anirban Roy, and Ajay Divakaran. "Detecting Trojaned DNNs Using Counterfactual Attributions." arXiv preprint arXiv:2012.02275 (2020).
 
-* Panagiota Kiourti, Kacper Wardega, Jha, Susmit, & Li, Wenchao. TrojDRL: Trojan Attacks on Deep Reinforcement Learning Agents. ArXiv, abs/1903.06638 (2019).
+* Panagiota Kiourti, Kacper Wardega, Susmit Jha, and Wenchao Li. TrojDRL: evaluation of backdoor attacks on deep reinforcement learning. Proceedings of the 57th ACM/EDAC/IEEE Design Automation Conference (2020). IEEE Press, Article 31, 1–6.
 
 ## Overall Approach
 
